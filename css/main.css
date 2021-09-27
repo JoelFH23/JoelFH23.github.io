@@ -13,3 +13,8 @@ img{
     transform: translate(-50%, -50%);
     border-radius: 10px;
 }
+h1{
+    color: #ccc;
+    text-align: center;
+    font-size: 6rem;
+}
